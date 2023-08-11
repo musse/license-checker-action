@@ -15,7 +15,7 @@
   "author": "steffen911",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.9.1",
-    "license-checker-rseidelsohn": "^1.2.2"
+    "@actions/core": "^1.10.0",
+    "license-checker-rseidelsohn": "^4.2.6"
   }
 }
